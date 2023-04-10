@@ -1,0 +1,27 @@
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 20px;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+}
+
+.btn-link {
+  text-decoration: none;
+}
+
+.text-h {
+  font-size: 20px;
+  color: rgb(6, 11, 94);
+}
+
+.colunm-h {
+  text-align: start;
+  justify-content: flex-start;
+  display: flexbox;
+}
+
+.colunm-h h5 {
+  font-size: 16px;
+}
